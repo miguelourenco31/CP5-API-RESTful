@@ -6,11 +6,10 @@ API RESTful em **C# .NET 10** com **Entity Framework Core** para gerenciar o ace
 
 ## Integrantes
 
-| Nome | RM |
-|------|----|
-| NOME DO INTEGRANTE 1 | RM00000 |
-| NOME DO INTEGRANTE 2 | RM00000 |
-| NOME DO INTEGRANTE 3 | RM00000 |
+Miguel Marques Lourenço - RM555426
+Lorenzzo Vendruscolo Dias - RM558305
+Gabriel Martins Vannucci - RM556883
+Pedro Henrique Ferronato - RM554757
 
 ## Contexto do projeto
 
@@ -33,8 +32,8 @@ A **Biblioteca API** resolve isso oferecendo um serviço centralizado para cadas
 Pré-requisitos: [.NET 10 SDK](https://dotnet.microsoft.com/download/dotnet/10.0) e Git. Não é necessário instalar o SQLite.
 
 ```bash
-git clone URL_DO_REPOSITORIO
-cd NOME_DA_PASTA/src/Biblioteca.Api
+git clone https://github.com/miguelourenco31/CP5-API-RESTful.git
+cd CP5-API-RESTful/src/Biblioteca.Api
 dotnet restore
 dotnet run
 ```
