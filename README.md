@@ -6,10 +6,10 @@ API RESTful em **C# .NET 10** com **Entity Framework Core** para gerenciar o ace
 
 ## Integrantes
 
-Miguel Marques Lourenço - RM555426
-Lorenzzo Vendruscolo Dias - RM558305
-Gabriel Martins Vannucci - RM556883
-Pedro Henrique Ferronato - RM554757
+- Miguel Marques Lourenço - RM555426
+- Lorenzzo Vendruscolo Dias - RM558305
+- Gabriel Martins Vannucci - RM556883
+- Pedro Henrique Ferronato - RM554757
 
 ## Contexto do projeto
 
